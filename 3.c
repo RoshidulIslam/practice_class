@@ -3,7 +3,7 @@ int main (){
 
 
 
-printf("  This is software Lab class after mid \n");
+printf("  This is software Lab class  mid \n");
 }
 
 
